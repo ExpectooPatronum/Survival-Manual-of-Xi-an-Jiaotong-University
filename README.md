@@ -1,2 +1,6 @@
-# Survival-Manual-of-Xi-an-Jiaotong-University
-2023年开始编写，为所有考生和西交学生而服务
+# 序
+
+此处留给一个足以帮我写下序言的人
+
+
+
