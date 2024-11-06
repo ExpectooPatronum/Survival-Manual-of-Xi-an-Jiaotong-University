@@ -12,7 +12,7 @@
 
 ## PART2 升学篇
 
+* [声明](part2-sheng-xue-pian/sheng-ming.md)
 * [保研摘要](part2-sheng-xue-pian/bao-yan-zhai-yao.md)
 * [出国留学](part2-sheng-xue-pian/chu-guo-liu-xue.md)
-* [Page 4](part2-sheng-xue-pian/page-4.md)
-* [Page 1](part2-sheng-xue-pian/page-1.md)
+* [考研摘要](part2-sheng-xue-pian/kao-yan-zhai-yao.md)
